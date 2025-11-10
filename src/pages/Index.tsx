@@ -37,17 +37,17 @@ const Index = () => {
 
   const portfolio = [
     {
-      image: "https://cdn.poehali.dev/projects/08970aef-48ac-4d06-8fe7-084b1e2131bf/files/8e27a598-3c14-4603-a90c-e6b588c4f440.jpg",
+      image: "https://cdn.poehali.dev/projects/08970aef-48ac-4d06-8fe7-084b1e2131bf/files/ac3fe454-2bef-4b9b-86ba-161a36d8c679.jpg",
       title: "Подъем дома в Подмосковье",
       description: "Подъем деревянного дома 8×10м на высоту 1.2м"
     },
     {
-      image: "https://cdn.poehali.dev/projects/08970aef-48ac-4d06-8fe7-084b1e2131bf/files/26c6ae4b-dac5-41a4-9035-ce622c0516e5.jpg",
+      image: "https://cdn.poehali.dev/projects/08970aef-48ac-4d06-8fe7-084b1e2131bf/files/09dabce3-c5ea-48eb-9c21-e112c1108b2d.jpg",
       title: "Замена нижних венцов",
       description: "Полная замена 4 венцов сруба 150×150мм"
     },
     {
-      image: "https://cdn.poehali.dev/projects/08970aef-48ac-4d06-8fe7-084b1e2131bf/files/35d6b552-4f33-43a3-a120-40318717f351.jpg",
+      image: "https://cdn.poehali.dev/projects/08970aef-48ac-4d06-8fe7-084b1e2131bf/files/8a5fda67-2d5d-4552-aa1d-94f1f1d36354.jpg",
       title: "Ремонт ленточного фундамента",
       description: "Восстановление фундамента дома 1985 года постройки"
     }
