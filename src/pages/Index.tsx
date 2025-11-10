@@ -102,7 +102,7 @@ const Index = () => {
           <nav className="flex items-center justify-between h-20">
             <div className="flex items-center gap-2">
               <Icon name="Home" size={32} className="text-accent" />
-              <span className="text-2xl font-bold text-primary">СтройМастер</span>
+              <span className="text-2xl font-bold text-primary">ПрофОтдел</span>
             </div>
             <div className="hidden md:flex items-center gap-8">
               <a href="#services" className="hover:text-accent transition-colors">Услуги</a>
@@ -220,7 +220,7 @@ const Index = () => {
             О компании
           </h2>
           <p className="text-lg md:text-xl mb-6 opacity-90">
-            СтройМастер — это команда профессионалов с более чем 15-летним опытом в сфере подъема домов, 
+            ПрофОтдел — это команда профессионалов с более чем 15-летним опытом в сфере подъема домов, 
             замены венцов и ремонта фундаментов. Мы выполнили более 500 проектов по всей Московской области.
           </p>
           <p className="text-lg md:text-xl opacity-90">
@@ -341,13 +341,13 @@ const Index = () => {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Icon name="Home" size={32} className="text-accent" />
-            <span className="text-2xl font-bold">СтройМастер</span>
+            <span className="text-2xl font-bold">ПрофОтдел</span>
           </div>
           <p className="text-lg opacity-90 mb-6">
             Профессиональный подъем домов и ремонт фундамента
           </p>
           <p className="opacity-75">
-            © 2024 СтройМастер. Все права защищены.
+            © 2024 ПрофОтдел. Все права защищены.
           </p>
         </div>
       </footer>
